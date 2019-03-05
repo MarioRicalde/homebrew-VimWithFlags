@@ -1,4 +1,4 @@
-class VimWithFlags < Formula
+class Vimflags < Formula
   desc "Vi 'workalike' with many additional features"
   homepage "https://www.vim.org/"
   # vim should only be updated every 50 releases on multiples of 50
